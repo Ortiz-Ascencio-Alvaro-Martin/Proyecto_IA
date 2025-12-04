@@ -88,17 +88,9 @@ Buenas prácticas
 - Mantén el monitor serial cerrado mientras ejecutas los scripts Python que necesitan el puerto.
 - Ajusta y comenta las secciones del código donde están los parámetros (puerto, baudrate, índices de cámara).
 
-Contribuciones y contacto
-- Si quieres mejorar este README o los scripts, abre un issue o envía un pull request.
-- Autor: Revisa el repositorio para ver información del autor/propietario.
+**Licencia:**
+- Este proyecto se publica bajo la licencia **MIT**. Consulta el archivo `LICENSE` para el texto completo.
 
-Licencia
-- Añade aquí la licencia aplicable si quieres compartir el código públicamente (ej. MIT, Apache-2.0). Si no se especifica, asume que está bajo derechos del autor hasta que se indique lo contrario.
+**Permisos:**
+- Puedes usar, copiar, modificar y distribuir este código libremente, incluso con fines comerciales, siempre que mantengas el aviso de copyright y la licencia.
 
----
-
-Si quieres, puedo:
-- Añadir un `requirements.txt` automático con las dependencias.
-- Inspeccionar los scripts y completar las versiones exactas de las dependencias.
-
-Indica qué prefieres y continúo.
